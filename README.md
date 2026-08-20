@@ -1,1 +1,1 @@
-# 3rd WEAR Dataset Challenge HASCA 2026
+# 3rd WEAR Challenge HASCA 2026
